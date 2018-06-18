@@ -1,6 +1,6 @@
 import pytest
 
-from FizzBuzz import fizzBuzz
+from fizz_buzz import fizzBuzz
 
 
 def checkFizzBuzz(value, expectedRetVal):
